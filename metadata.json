@@ -1,0 +1,5 @@
+{
+  "name": "Hart to Hart Episode Tracker",
+  "description": "An application to browse episodes of the TV show 'Hart to Hart', generate AI-powered summaries, and track which episodes you've watched.",
+  "requestFramePermissions": []
+}
